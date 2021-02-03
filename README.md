@@ -5,7 +5,7 @@ Xiao Yin
 
 ^ \| YAML Frontmatter
 
-## R Markdown
+## Not my first R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
@@ -26,6 +26,12 @@ summary(cars)
     ##  Mean   :15.4   Mean   : 42.98  
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
+
+``` r
+print("Hello world!")
+```
+
+    ## [1] "Hello world!"
 
 ## Including Plots
 
